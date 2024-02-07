@@ -1,2 +1,4 @@
-# ts-analysis
-time series analysis with R
+## arma module and glm for ts analysis
+- arima, acf, pacf functions
+- lm / norm
+- matrix / dataframes
